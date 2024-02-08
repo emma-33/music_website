@@ -261,7 +261,6 @@ body{
 
 .container main .playlist .genres .items .item{
     padding: 22px 10px;
-    background-color: red;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -450,7 +449,7 @@ body{
 .container .right-section .music-player .song-info .progress{
     display: flex;
     align-items: center;
-    margin: 10px;
+    margin: 10px 0;
 }
 
 .container .right-section .music-player .song-info .progress p{
@@ -679,7 +678,7 @@ body{
     }
 
     .container main .playlist{
-        margin-top: 48px;
+        margin-top: 40px;
     }
 
     .container .right-section .music-player{
@@ -716,7 +715,7 @@ body{
     }
 
     .container main header .search{
-        width: 48%;
+        width: 40%;
     }
 
     .container main header .search input{
